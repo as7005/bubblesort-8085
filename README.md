@@ -1,2 +1,2 @@
 # Bubble sorting
-bubble sorting using assembly language
+Bubble sorting using assembly language.
